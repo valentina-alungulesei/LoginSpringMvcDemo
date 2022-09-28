@@ -15,12 +15,15 @@
 		
 		<form:form action="processForm" modelAttribute="user">
 			First name: <form:input path="firstName"/>
+						<form:errors path="firstName" cssClass="error"/>
 			<br><br>
 			
 			Last name: <form:input path="lastName"/>
+					   <form:errors path="lastName" cssClass="error"/>
 			<br><br>
 			
 			Age: <form:input path="age"/>
+				 <form:errors path="age" cssClass="error"/>
 			<br><br>
 			
 			Gender: 
@@ -34,9 +37,11 @@
 			<br><br>
 			
 			Email: <form:input path="email"/>
+				   <form:errors path="email" cssClass="error"/>
 			<br><br>
 			
 			Password: <form:input path="password"/>
+					  <form:errors path="password" cssClass="error"/>
 			<br><br>
 			
 			<input type="submit" value="Submit">

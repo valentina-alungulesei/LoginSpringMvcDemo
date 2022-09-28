@@ -2,6 +2,11 @@ h1, h2, h3 {
 	text-align: center;
 }
 
+a {
+	display: block;
+	text-align: center;
+}
+
 body {
 	margin-left: 10%;
 	margin-right: 10%;
@@ -15,4 +20,9 @@ body {
 	margin-left: -50px;
 	width: 100px;
 	height: 100px;
+}
+
+.error {
+	color: red;
+	font-style: italic;
 }
