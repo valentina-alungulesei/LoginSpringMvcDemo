@@ -17,4 +17,7 @@
 # 2. Used Technologies
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java logo" width="30" height="30"/> Java
-- <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring logo" width="30" height="20"> Spring MVC
+- <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring logo" width="30" height="30"> Spring MVC
+- <img src="https://www.svgrepo.com/show/142781/jsp-file-format-symbol.svg" alt="JSP logo" width="30" height="30"> JSP
+- <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML logo" width="30" height="30"> HTML
+- <img src="https://www.svgrepo.com/show/102011/css-3.svg" alt="CSS logo" width="30" height="30"> CSS
