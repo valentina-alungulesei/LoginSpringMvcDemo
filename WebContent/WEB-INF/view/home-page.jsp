@@ -7,6 +7,9 @@
 	</head>
 	
 	<body>
+		
+		<a href="showRegisterForm"> Register new user </a>
+		
 		<img alt="Spring Logo"
 	   	 src="${pageContext.request.contextPath}/resources/images/spring_logo.png"
 	   	 class="home-logo-image">		

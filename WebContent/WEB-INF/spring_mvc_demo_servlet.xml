@@ -16,6 +16,9 @@
             
     <!-- Configure references to static resources -->
     <mvc:resources mapping="/resources/**" location="/resources/"></mvc:resources>
+    
+    <!-- Load the country options properties file -->
+    <util:properties id="countries" location="classpath:../countries.properties" />
 
 	<!-- Step 3: Add support for component scanning -->
 	<context:component-scan base-package="com.loginSpringMvcDemo.mvc" />
